@@ -90,18 +90,6 @@ The bot uses **asynchronous programming** to fetch prices from multiple exchange
 
 With support for various exchanges, the bot provides a comprehensive view of the market, increasing the chances of finding profitable arbitrage opportunities. Each exchange has its own API endpoint configured within the bot, making it easy to extend and support additional exchanges if needed.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin my-feature-branch`.
-5. Open a pull request.
-
-Please ensure your code adheres to the existing style and that all tests pass.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
